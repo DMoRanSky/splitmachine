@@ -1,0 +1,7 @@
+## YAML Template.
+---
+EnableSplit: true
+EnableSplitCommand: true
+SubtractLevel: 2
+CanSplitDisplayNameItem: false
+NotSplitNameList: []

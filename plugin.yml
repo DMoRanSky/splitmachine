@@ -1,0 +1,17 @@
+## YAML Template.
+---
+name: SplitMachine
+main: com.qq.com.moran.SplitMachine
+version: 1.4
+author: MoRan_Sky
+
+commands: 
+  splitmachine: 
+    description: 打开拆解台命令
+    usage: /splitmachine
+    permission: Splitmachine.splitmachine
+    permission-message: §c你没有权限打开拆解台
+  permissions: 
+    
+    Splitmachine.splitmachine: 
+      default: true
